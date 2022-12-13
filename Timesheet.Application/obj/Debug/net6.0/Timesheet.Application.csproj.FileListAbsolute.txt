@@ -1,0 +1,15 @@
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.csproj.AssemblyReference.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.AssemblyInfoInputs.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.AssemblyInfo.cs
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.csproj.CoreCompileInputs.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\bin\Debug\net6.0\Timesheet.Application.deps.json
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\bin\Debug\net6.0\Timesheet.Application.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\bin\Debug\net6.0\Timesheet.Application.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\bin\Debug\net6.0\Timesheet.Domain.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\bin\Debug\net6.0\Timesheet.Domain.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.csproj.CopyComplete
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\refint\Timesheet.Application.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\Timesheet.Application.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.Application\obj\Debug\net6.0\ref\Timesheet.Application.dll

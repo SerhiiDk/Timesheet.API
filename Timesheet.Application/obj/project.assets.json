@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Timesheet.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Timesheet.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Timesheet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timesheet.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Timesheet.Domain/Timesheet.Domain.csproj",
+      "msbuildProject": "../Timesheet.Domain/Timesheet.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Timesheet.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\serh0227\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Application\\Timesheet.Application.csproj",
+      "projectName": "Timesheet.Application",
+      "projectPath": "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Application\\Timesheet.Application.csproj",
+      "packagesPath": "C:\\Users\\serh0227\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\serh0227\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Domain\\Timesheet.Domain.csproj": {
+              "projectPath": "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Domain\\Timesheet.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
