@@ -1,0 +1,15 @@
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\bin\Debug\net6.0\Timesheet.DataAccess.csv.deps.json
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\bin\Debug\net6.0\Timesheet.DataAccess.csv.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\bin\Debug\net6.0\Timesheet.DataAccess.csv.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\bin\Debug\net6.0\Timesheet.Domain.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\bin\Debug\net6.0\Timesheet.Domain.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.csproj.AssemblyReference.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.AssemblyInfoInputs.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.AssemblyInfo.cs
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.csproj.CoreCompileInputs.cache
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.csproj.CopyComplete
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\refint\Timesheet.DataAccess.csv.dll
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\Timesheet.DataAccess.csv.pdb
+C:\Users\serh0227\source\repos\DevelopmentSoft.Timesheet\Timesheet.DataAccess.csv\obj\Debug\net6.0\ref\Timesheet.DataAccess.csv.dll
