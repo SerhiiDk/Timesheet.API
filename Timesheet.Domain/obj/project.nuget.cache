@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pue7jsDFqFlVCAYZbb4PXxK4Cc1bVpMoiH2Id4ccbPiaL6x6KASRzyMGz+6YGtZJd7V5MELeP+zyYCKE6akwYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serh0227\\source\\repos\\DevelopmentSoft.Timesheet\\Timesheet.Domain\\Timesheet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serh0227\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\serh0227\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\serh0227\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
